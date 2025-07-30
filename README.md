@@ -1,15 +1,14 @@
 
 # 🌍 Life Expectancy Prediction Using Machine Learning
 
-This project uses various regression algorithms to predict **life expectancy** based on multiple socio-economic and health-related features. The dataset is sourced from the [Kaggle Life Expectancy Data](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who).
+This project uses various regression algorithms to predict **life expectancy** based on multiple socio-economic and health-related features. 
 
----
 
-## 📊 Dataset
+ 📊 Dataset
 
-- **Source**: [Kaggle - Life Expectancy Data](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
-- **Rows**: ~2,900
-- **Columns**: 22
+- Source: [Kaggle - Life Expectancy Data](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
+- Rows: ~2,900
+- Columns: 22
 - Includes variables such as:
   - Adult Mortality
   - Alcohol consumption
@@ -21,7 +20,7 @@ This project uses various regression algorithms to predict **life expectancy** b
 
 ---
 
-## ⚙️ Models Used
+ ⚙️ Models Used
 
 - Linear Regression
 - Random Forest Regressor
@@ -35,7 +34,7 @@ Each model was trained and evaluated using:
 
 ---
 
-## 📌 Features
+📌 Features
 
 - Data cleaning (missing values, infinities)
 - Feature encoding and scaling
@@ -49,7 +48,7 @@ Each model was trained and evaluated using:
 
 ---
 
-## 📁 Project Structure
+ 📁 Project Structure
 
 ```
 
@@ -57,11 +56,11 @@ Each model was trained and evaluated using:
 ├── README.md                     # Project description
 └── Life Expectancy Data.csv      # Dataset (from Kaggle)
 
-````
+---
 
 ---
 
-## 🧪 How to Run
+🧪 How to Run
 
 1. **Download the dataset** from [this Kaggle link](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who).
 2. Place the CSV in the working directory.
