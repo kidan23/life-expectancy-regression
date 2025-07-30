@@ -1,11 +1,4 @@
-# life-expectancy-regression
-Thanks! Here's a complete and well-structured `README.md` file for your project based on the code you've provided.
 
----
-
-### 📄 `README.md`
-
-```markdown
 # 🌍 Life Expectancy Prediction Using Machine Learning
 
 This project uses various regression algorithms to predict **life expectancy** based on multiple socio-economic and health-related features. The dataset is sourced from the [Kaggle Life Expectancy Data](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who).
